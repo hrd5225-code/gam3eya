@@ -1,0 +1,6 @@
+{
+  "appId": "com.hossam.gam3eya",
+  "appName": "جمعيتي",
+  "webDir": "www",
+  "server": { "androidScheme": "https" }
+}
